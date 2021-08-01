@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="description" content="">
-    <meta name="author" content="Varunprakash">
+    <meta name="author" content="Yeshvanthkrishnaa">
     <meta name="theme-color" content="#0062ff">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign In :: Grootan's Project  </title>
@@ -264,7 +264,7 @@ a:hover {
     <script src="https://kit.fontawesome.com/a81368914c.js"></script>
 </head>
   <body>
-    <img class="wave" alt="design">
+    <img class="wave" alt="design" src="./wave.png">
     <div class="container">
       <div class="img"></div>
       <div class="login-content">
